@@ -12,3 +12,8 @@ Directories- Directory eans collection of files
         mnt     proc  run     snap    sys       usr 
         boot    etc   init    lib32   libx32    media
         opt     root  sbin    srv     tmp       var
+        
+ 
+ 
+ 
+ Commands-
