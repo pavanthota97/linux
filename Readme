@@ -17,5 +17,23 @@ Directories- Directory eans collection of files
  
  
  
- Commands-
+ Commands-/(Mount Point)
+ 
+ ->/bin  - User Binary files
+ ->/boot - Boot Loader files
+ ->/dev  - Device files
+ ->/etc  - Configuration files
+ ->/home - Home Directories
+ ->/lib  - Syste Libraries
+ ->/media - Mount point for removable media
+ ->/mnt  - Mount point for temporary file systems
+ ->/opt  - Optional Add-on applications
+ ->/sbin - system binaries
+ ->/srv  - service data
+ ->/tmp  - Temporary files
+ ->/usr  - User programs
+ ->/var  -variable files
+ ->/root - root user directory
+ ->/proc -process information
+ ->/lost+found  - Misplaced Data
 
