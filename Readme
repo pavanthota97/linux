@@ -17,7 +17,7 @@ Directories- Directory eans collection of files
  
  
  
- Commands-/(Mount Point)
+ Commands- front slash (/)(Mount Point)
  
  ->/bin  - User Binary files
  ->/boot - Boot Loader files
