@@ -38,6 +38,7 @@ Directories- Directory eans collection of files
  ->/proc -process information
  ->/lost+found  - Misplaced Data
  
+ In Ubuntu the command is  ping www.googl.com  it wilol come the ip addresses
  
  
  IP-IP means internet protocol address.
