@@ -37,4 +37,11 @@ Directories- Directory eans collection of files
  ->/root - root user directory
  ->/proc -process information
  ->/lost+found  - Misplaced Data
+ 
+ 
+ 
+ 
+ Syntax:-
+
+ SELECT CustomerName, City FROM Customers;
 
