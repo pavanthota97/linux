@@ -49,10 +49,13 @@ Directories- Directory eans collection of files
 -> DNS translates domains names to ip addresses so browsers can load internet resources.
 -> Each device connected to the internet has a unique has a unique IP address which other machine use to find the devices .
 ->DNS servers elimates the bneed for human to memorize IP address such as 192.168.1.1(in IPV4),or more complex
-Commands for Linux:-
 
-ls      -       list
+(17-05-2023)
+Commands for Linux:-
+ls      -       list of the folders
 mkdir   -       to create the folder
+ls -l   -       list of the folder with user name and date&time
+
 
 
  
