@@ -38,7 +38,7 @@ Directories- Directory eans collection of files
  ->/proc -process information
  ->/lost+found  - Misplaced Data
  
- In Ubuntu the command is  ping www.googl.com  it wilol come the ip addresses
+ In Ubuntu the command is  ping www.googl.com  it will come the ip addresses
  
  
  IP-IP means internet protocol address.
@@ -48,7 +48,13 @@ Directories- Directory eans collection of files
 -> DNS is the phone book of internet
 -> DNS translates domains names to ip addresses so browsers can load internet resources.
 -> Each device connected to the internet has a unique has a unique IP address which other machine use to find the devices .
-->DNS servers elimates the bneed for human to memorize IP address such as 192.168.1.1(in IPV4),or more complex 
+->DNS servers elimates the bneed for human to memorize IP address such as 192.168.1.1(in IPV4),or more complex
+Commands for Linux:-
+
+ls      -       list
+mkdir   -       to create the folder
+
+
  
  
  
