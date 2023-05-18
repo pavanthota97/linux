@@ -57,7 +57,9 @@ mkdir   -       to create the folder
 ls -l   -       list of the folder with user name and date&time
 vi filename     -       By using this we can able add the data what we want.
 :x      -       exit from the consolescreen
-:wq     -       wirte and quit from the conosle 
+:wq     -       wirte and quit from the conosle.
+la      -       It's directly open the given file name from the given path.
+git clone       - to acess the github path for the source.
 
 
 
