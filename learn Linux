@@ -52,14 +52,20 @@ Directories- Directory eans collection of files
 
 (17-05-2023)
 Commands for Linux:-
-ls      -       list of the folders
-mkdir   -       to create the folder
-ls -l   -       list of the folder with user name and date&time
-vi filename     -       By using this we can able add the data what we want.
-:x      -       exit from the consolescreen
-:wq     -       wirte and quit from the conosle.
-la      -       It's directly open the given file name from the given path.
-git clone       - to acess the github path for the source.
+ls                      -       list of the folders
+mkdir                   -       to create the folder
+ls -l                   -       list of the folder with user name and date&time
+vi filename             -       By using this we can able add the data what we want.
+:x                      -       exit from the consolescreen
+:wq                     -       wirte and quit from the conosle.
+la                      -       It's directly open the given file name from the given path.
+git clone               -       to acess the github path for the source.
+git log                 -       details of logging
+git commit -m"file name.txt file add/deleted"   -  
+git remote -v           -       To acess the URLs from our github
+git status              -       It will show the details of the bath
+git branch  filename    -       to create the branch
+git checkout filename   -       It will open the branch.
 
 
 
