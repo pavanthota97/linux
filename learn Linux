@@ -54,7 +54,7 @@ Directories- Directory eans collection of files
 Commands for Linux:-
 ls                      -       list of the folders
 mkdir                   -       to create the folder
-cd filename             -       To access the path.
+cd filename             -       To access the path.  cd means - Change Directory
 cat fileName.txt        -       It will display the created file .
 ls -l                   -       list of the folder with user name and date&time
 vi filename             -       By using this we can able add the data what we want.
