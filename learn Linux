@@ -66,6 +66,7 @@ git remote -v           -       To acess the URLs from our github
 git status              -       It will show the details of the bath
 git branch  filename    -       to create the branch
 git checkout filename   -       It will open the branch.
+cat "fileName.txt"      -       It will display the created file .
 
 
 
